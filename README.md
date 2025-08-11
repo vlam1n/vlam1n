@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+	<h1>Hi there, I'am Vladimir</h1>
+	<h3>Beginner ML-engineer. Second year student at  Bauman Moscow State University<h3>
+</div>
 <!--
 **vlam1n/vlam1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

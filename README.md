@@ -7,9 +7,9 @@
 </div>
 <div id="second_block" align="left">
 	<h3>About me<h3>
-	<h4>- 😄 Second year student at Bauman Moscow State University</h4>
-	<h4>- 🔭 I’m currently working on my repositori</h4>
-	<h4>- 🌍 I speak English</h4>
+	<h5>- 😄 Second year student at Bauman Moscow State University</h5>
+	<h5>- 🔭 I’m currently working on my repositori</h5>
+	<h5>- 🌍 I speak English</h5>
 			
 			
 

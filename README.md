@@ -5,7 +5,7 @@
     	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-<div>
+<div id="second_block" align="left">
 ###About me
 - 😄 Second year student at Bauman Moscow State University
 - 🔭 I’m currently working on my repositori
